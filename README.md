@@ -20,22 +20,25 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 
 ![Projeto 01](https://github.com/patrickxfranco/ambientes-unicos/assets/52086621/659a5456-5c59-4386-9a51-a3846280b36f)
 
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - Figma
 
 ## 💻 Projeto
 
 O Ambientes Únicos é um projeto simples para prática de técnicas apresentadas durante as aulas do Explorer.
 
-- [Acesse o projeto finalizado, online]([https://patrickxfranco.github.io/Patricks-DevLinks/](https://github.com/patrickxfranco/ambientes-unicos))
+- [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/ambientes-unicos/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/BXB3VYF2QchxnU8NOy8yAO/Explorer---Projeto-01-(Copy)?type=design&node-id=1%3A2&mode=design&t=iHLIoQTVw78Bh9IG-1)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BXB3VYF2QchxnU8NOy8yAO/Explorer---Projeto-01-(Copy)?type=design&node-id=1%3A2&mode=design&t=iHLIoQTVw78Bh9IG-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 

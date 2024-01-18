@@ -26,7 +26,6 @@ main {
 
 #hero img {
   margin-bottom: 7.2rem;
-  width: 100%;
 }
 
 h1 {
@@ -74,6 +73,10 @@ p, #footer {
 @media (max-width: 425px) {
   #hero {
     margin-bottom: 2rem;
+  }
+
+  #hero img {
+    width: 100%;
   }
   
   p {
